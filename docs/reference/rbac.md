@@ -235,7 +235,7 @@ roleRef:
   apiGroup: rbac.authorization.k8s.io
 ```
 
-The corresponding configuration for a static namespace installation, for each namespaece that the client should be able
+The corresponding configuration for a static namespace installation, for each namespace that the client should be able
 to access:
 
 
